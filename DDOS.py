@@ -2,7 +2,7 @@
 3534 lines (3518 sloc)  394 KB
 
 # ----------------------------------------------------------------------------------------------
-# Saphyra - DDoS Tool
+# -__- - DDoS Tool
 #
 # The DDoS Protocol is the most massive type of attack
 #
@@ -3412,47 +3412,7 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print 'Saphyra DDoS Tool ( individual Dangerous Denial of Service )'
-	print 'New loaded Botnets: 1,798,445,657'
-	print 'Usage: Saphyra (url)'
-	print 'Example: Saphyra.py http://luthi.co.il/'
-	print "\a"
-print \
-"""
-                                ,-.
-                               ( O_)
-                              / `-/
-                             /-. /
-                            /   )
-                           /   /  
-              _           /-. /
-             (_)*-._     /   )
-               *-._ *-'**( )/    
-                   *-/*-._* `. 
-                    /     *-.'._
-                   /\       /-._*-._
-    _,---...__    /  ) _,-*/    *-(_)
-___<__(|) _   **-/  / /   /
- '  `----' **-.   \/ /   /
-               )  ] /   /
-       ____..-'   //   /                       )
-   ,-**      __.,'/   /   ___                 /,
-  /    ,--**/  / /   /,-**   ***-.          ,'/
- [    (    /  / /   /  ,.---,_   `._   _,-','
-  \    `-./  / /   /  /       `-._  *** ,-'
-   `-._  /  / /   /_,'            **--*
-       */  / /   /*         
-       /  / /   /
-      /  / /   /  
-     /  |,'   /  
-    :   /    /
-    [  /   ,'     ~>Saphyra DDoS Tool<~
-    | /  ,'      ~~>Created By Anonymous<~~
-    |/,-'
-    '
-                                                       
-""" 
-
+	
 	
 #http request
 def httpcall(url):
@@ -3533,19 +3493,3 @@ else:
 		t = MonitorThread()
 		t.start()
 
-	
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Saphyra-DDoS/saphyra.py at main · anonymous24x7/Saphyra-DDoS · GitHub
