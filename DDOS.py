@@ -4,7 +4,7 @@
 # ----------------------------------------------------------------------------------------------
 # -__- - DDoS Tool
 #
-# The DDoS Protocol is the most massive type of attack
+# It should wrok for masive servers
 #
 # 
 #
